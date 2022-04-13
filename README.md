@@ -41,16 +41,4 @@ PAG_HEI.csv: banco de dados contendo 9424 observações de crianças e adultos p
 1. Faça o(s) teste(s) de hipóteses adequado(s) para avaliar a significância estatística das diferenças nas características demográficas apontadas na análise bivariada. Quais são as características apresentam diferenças estatisticamente significativas para a frequência de sintomas de depressão?
 
 2. Faça o(s) teste(s) de hipóteses adequado(s) para avaliar se existe associação entre hábitos saudáveis e sintomas de depressão.
-
-### 6 - Aspectos da análise
-
-1. Qual o tipo de estudo está sendo empregado pelo NHANES? experimental ou observacional?
-
-2. Discuta as possíveis fontes de viés presentes na análise
-
-3. A partir da análise realizada, podemos afirmar que hábitos saudáveis possuem um efeito causal na prevenção de depressão?
-
-4. Quais são as fraquezas das análises realizadas? O que pode ser feito para melhorar?
-
-5. Quais outras variáveis/informações poderiam ter sido coletadas para esta análise?
 	
